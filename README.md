@@ -18,8 +18,9 @@ I社 情感工坊上传下载服务器
 设置一下接受上传、下载的最大时间，以免上传或下载失败。<br />
 <br />
 mysql 的 sql 文件在 sql 文件夹里面。<br />
-data/config.ini 可以修改 mysql 的连接配置。<br />
-config.ini 中 thumbnail 开头的缩略图大小。<br />
+data/config.ini 可以修改 mysql 的连接配置。<br /><br />
+
+config.ini 中 thumbnail 开头的是缩略图大小。<br />
 image_base64 是将图片以 base64 编码储存。<br />
 close_error_report 是关闭 php 自带报错，如果开启，可能导致游戏实际使用时出错，建议只在调试时使用。<br />
 version 是游戏的版本。<br />
