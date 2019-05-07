@@ -29,7 +29,7 @@ version 是游戏的版本。<br />
 
 <h1>关于修改游戏连接</h1>
 游戏连接地址，在 emotioncreators/DefaultData/url 里面<br />
-里面的 dat 就是连接地址，不过都经过加密。<br /><br />
+里面的 .dat 就是连接地址，不过都经过加密。<br /><br />
 
 以下是加密代码。<br /><br />
 
